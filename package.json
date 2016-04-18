@@ -1,6 +1,6 @@
 {
   "name": "producthunt-superagent",
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.2",
   "description": "This is an internal fork, please do not use.",
   "scripts": {
     "prepublish": "make all",
